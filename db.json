@@ -1,34 +1,26 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "id": "khadijanassib123",
+      "data":{
+        "name": "Khadija NASSIB",
+        "class": "C8A G1",
+        "gardian": "Noufissa EL-IBRAHIMI",
+        "attendence time": "08:26",
+        },
+        "picture":
+            "https://lh3.googleusercontent.com/dE9zbg2sIa2hGuB2AJ46pzImRL1NN3IYHwu8BdQ9zPRsqtSjUx2Bw_0ySY827oLkQuP8aVKteodqT2nedUmzh6sKhyVLz1bIVFmLxL066EfsiqiJrKn87Z16e15S3ZTkR2Sb30XY1BWaqXcTK4BfAYRhDD6yG4hza8gl9CIsCawd94pvMtHOem2X-Syj0OuhedP_WARHWEvDShxt46qixQMLNfRLb6he_c1iG-CwiqRXWrxIg0S2QMywtPkiabiihVqQop3Odd8sNl-aWrx3W1T0DRIUDRZnvr61GBULd9yJOFXK-bvJCdFVyM71-e8x1vILlyR5XAcmMGgJtEyXN1v7xD76LK1snd6pASbxjm2fbpCRgzDifZSrARTqHEwE7YAff34Cnoq8MDINie98wMAy37DE1NtN2dhQ3eKqIMWHO5XN5uF5tJtIve45p87vif5gUXvoO--JW5YIx9I_-70CG94PNE0GWyl3vy_mK82Rybl7Il2t2ZyvWruEpRRfTOfT5LvIyGiTW-ALszLMAiKJXsnD5RNmgjoETAFDfRklkNDYG_h5w9rc7mEmgPIgSLRU8yU8-0N22Zi0cYoOdcN3pjvuzgdcI18KDhSKlDjuIVoh1myVcYFSZVOoyxuKAAokCHzwoGe9wUq58dMdZScB2Cz3RVVJ5r1gRrcXwi_n1lz9t-qxyzUTdL34rWVn_XSrPwPn5y6E8ITt5ZfDgyoZ77gQyuvWPcX48CUHFDLqk3HzThExzNP-47xGh_3NjoY76_F41xhGymREZEZqrIYb8r8mRS0_9DrbHQUN6xyn0H9OdY8KaCMC3dEIIQOA6FYqX2qpqxOjAkv83SGaMttDP3QQ4qxnaQ_UNhENNACi5q9bCbaj2lVssf9v0wGTaGB1Egj-aH8wFky-D1W96GHyQH-nY2rLR8rl=w833-h625-no?authuser=0"
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "id": "Tahaouajid123",
+      "data": {
+        "name": "Taha OUAJID",
+        "class": "C8B G2",
+        "gardian": "Mustapha OUAJID",
+        "attendence time": "08:20",
+      },
+      "picture":
+            "https://lh3.googleusercontent.com/dE9zbg2sIa2hGuB2AJ46pzImRL1NN3IYHwu8BdQ9zPRsqtSjUx2Bw_0ySY827oLkQuP8aVKteodqT2nedUmzh6sKhyVLz1bIVFmLxL066EfsiqiJrKn87Z16e15S3ZTkR2Sb30XY1BWaqXcTK4BfAYRhDD6yG4hza8gl9CIsCawd94pvMtHOem2X-Syj0OuhedP_WARHWEvDShxt46qixQMLNfRLb6he_c1iG-CwiqRXWrxIg0S2QMywtPkiabiihVqQop3Odd8sNl-aWrx3W1T0DRIUDRZnvr61GBULd9yJOFXK-bvJCdFVyM71-e8x1vILlyR5XAcmMGgJtEyXN1v7xD76LK1snd6pASbxjm2fbpCRgzDifZSrARTqHEwE7YAff34Cnoq8MDINie98wMAy37DE1NtN2dhQ3eKqIMWHO5XN5uF5tJtIve45p87vif5gUXvoO--JW5YIx9I_-70CG94PNE0GWyl3vy_mK82Rybl7Il2t2ZyvWruEpRRfTOfT5LvIyGiTW-ALszLMAiKJXsnD5RNmgjoETAFDfRklkNDYG_h5w9rc7mEmgPIgSLRU8yU8-0N22Zi0cYoOdcN3pjvuzgdcI18KDhSKlDjuIVoh1myVcYFSZVOoyxuKAAokCHzwoGe9wUq58dMdZScB2Cz3RVVJ5r1gRrcXwi_n1lz9t-qxyzUTdL34rWVn_XSrPwPn5y6E8ITt5ZfDgyoZ77gQyuvWPcX48CUHFDLqk3HzThExzNP-47xGh_3NjoY76_F41xhGymREZEZqrIYb8r8mRS0_9DrbHQUN6xyn0H9OdY8KaCMC3dEIIQOA6FYqX2qpqxOjAkv83SGaMttDP3QQ4qxnaQ_UNhENNACi5q9bCbaj2lVssf9v0wGTaGB1Egj-aH8wFky-D1W96GHyQH-nY2rLR8rl=w833-h625-no?authuser=0"
     },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
-}
+  ]
+};
